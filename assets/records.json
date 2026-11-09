@@ -1,0 +1,538 @@
+[
+  {
+    "index": 1,
+    "original": "H01634305ba1e4ea28d6779f5896f5269l.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H01634305ba1e4ea28d6779f5896f5269l.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 2,
+    "original": "H0742df7a42b043feb6c5e33167090917M.jpg",
+    "category": "Computer accessories",
+    "path": "images/products/H0742df7a42b043feb6c5e33167090917M.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 3,
+    "original": "H0824c1f2f8304556a1ed82cb9628c61er (1).jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H0824c1f2f8304556a1ed82cb9628c61er (1).jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 4,
+    "original": "H0824c1f2f8304556a1ed82cb9628c61er.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H0824c1f2f8304556a1ed82cb9628c61er (1).jpg",
+    "duplicate": true,
+    "duplicate_of": 3
+  },
+  {
+    "index": 5,
+    "original": "H0cfaa74630ed457bbe8050b161a4081d6.jpg",
+    "category": "Security cameras",
+    "path": "images/products/H0cfaa74630ed457bbe8050b161a4081d6.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 6,
+    "original": "H0d5f32a104e54ee281bb8ff85462236el.jpg",
+    "category": "Security cameras",
+    "path": "images/products/H0d5f32a104e54ee281bb8ff85462236el.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 7,
+    "original": "H0da17e90a244496bb9cbe9b198e48dd14.png",
+    "category": "Security cameras",
+    "path": "images/products/H0da17e90a244496bb9cbe9b198e48dd14.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 8,
+    "original": "H0f0706002629470c9bcffa67fa253831t.jpg",
+    "category": "USB & memory",
+    "path": "images/products/H0f0706002629470c9bcffa67fa253831t.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 9,
+    "original": "H172522180fff49d885248fca32d9c76aZ.png",
+    "category": "Storage & drives",
+    "path": "images/products/H172522180fff49d885248fca32d9c76aZ.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 10,
+    "original": "H191b8996c8e046139733dc4aabfda977C.jpg",
+    "category": "Power & charging",
+    "path": "images/products/H191b8996c8e046139733dc4aabfda977C.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 11,
+    "original": "H1c28570d209b475ba7d003c16f0757bcu.jpg",
+    "category": "Power & charging",
+    "path": "images/products/H1c28570d209b475ba7d003c16f0757bcu.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 12,
+    "original": "H1c2ad057dc3e48d99f9915dd0d4271f4c.jpg",
+    "category": "USB & memory",
+    "path": "images/products/H1c2ad057dc3e48d99f9915dd0d4271f4c.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 13,
+    "original": "H240348a2673e4fb29c6d608021dd28f7Z.png",
+    "category": "Needs review",
+    "path": "images/unclassified/H240348a2673e4fb29c6d608021dd28f7Z.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 14,
+    "original": "H27e57aa7b3094be6b0e93b8f1542186cv.png",
+    "category": "Storage & drives",
+    "path": "images/products/H27e57aa7b3094be6b0e93b8f1542186cv.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 15,
+    "original": "H281158a27d334018abbbb9453bbed454f.jpg",
+    "category": "Computer accessories",
+    "path": "images/products/H281158a27d334018abbbb9453bbed454f.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 16,
+    "original": "H29cd6235880c41afa7c82a244f8322e2n.png",
+    "category": "Storage & drives",
+    "path": "images/products/H29cd6235880c41afa7c82a244f8322e2n.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 17,
+    "original": "H3686b8c6ea384fffbf9101413be8642el.jpg",
+    "category": "Security cameras",
+    "path": "images/products/H3686b8c6ea384fffbf9101413be8642el.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 18,
+    "original": "H3836cab2dd414c44b0cd4ef64dcfd131j.jpg",
+    "category": "USB & memory",
+    "path": "images/products/H3836cab2dd414c44b0cd4ef64dcfd131j.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 19,
+    "original": "H395e80d5d26e49fdbfb981ce8651c061v.png",
+    "category": "Laptop stands",
+    "path": "images/products/H395e80d5d26e49fdbfb981ce8651c061v.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 20,
+    "original": "H3af31328781c44e3884cf6baf85c059fq.jpg",
+    "category": "Security cameras",
+    "path": "images/products/H3af31328781c44e3884cf6baf85c059fq.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 21,
+    "original": "H412684f9db1c41d89791d83d255c396dg.png",
+    "category": "Storage & drives",
+    "path": "images/products/H412684f9db1c41d89791d83d255c396dg.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 22,
+    "original": "H4138ce005a2446e0a3412c02cd789193N.jpg",
+    "category": "Needs review",
+    "path": "images/unclassified/H4138ce005a2446e0a3412c02cd789193N.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 23,
+    "original": "H41943fb13e034fa78de0445da8095cebG.jpg",
+    "category": "Needs review",
+    "path": "images/unclassified/H41943fb13e034fa78de0445da8095cebG.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 24,
+    "original": "H46c171c98ee243c392fc5022c92a0266N.jpg",
+    "category": "Security cameras",
+    "path": "images/products/H46c171c98ee243c392fc5022c92a0266N.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 25,
+    "original": "H48a98502abf24ce880e74e5ad215d35ej.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H48a98502abf24ce880e74e5ad215d35ej.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 26,
+    "original": "H4a2da0f1531f4936a8384ff9f33c5c5bi.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H4a2da0f1531f4936a8384ff9f33c5c5bi.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 27,
+    "original": "H4c693cfc0fcc481cb2c7c872b5b338c5K.png",
+    "category": "Storage & drives",
+    "path": "images/products/H4c693cfc0fcc481cb2c7c872b5b338c5K.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 28,
+    "original": "H4e45ec05627649b98d09a9611cee1bc8q.png",
+    "category": "Storage & drives",
+    "path": "images/products/H4e45ec05627649b98d09a9611cee1bc8q.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 29,
+    "original": "H4efb332b82e147b486635fdb2da0f82fQ.png",
+    "category": "Storage & drives",
+    "path": "images/products/H4efb332b82e147b486635fdb2da0f82fQ.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 30,
+    "original": "H546302dc0b86407fa4cc6c38f1144de6J.jpg",
+    "category": "Laptop stands",
+    "path": "images/products/H546302dc0b86407fa4cc6c38f1144de6J.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 31,
+    "original": "H557d81090a234dd595659e5265c0188cA.png",
+    "category": "Networking",
+    "path": "images/products/H557d81090a234dd595659e5265c0188cA.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 32,
+    "original": "H55e6a28473da499296c24080271777dfq.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H55e6a28473da499296c24080271777dfq.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 33,
+    "original": "H5a25b9b8c20140ccab130cdf7148a330B.png",
+    "category": "Power & charging",
+    "path": "images/products/H5a25b9b8c20140ccab130cdf7148a330B.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 34,
+    "original": "H6006649dfff740d2baf3c1c24d92adffx.png",
+    "category": "Storage & drives",
+    "path": "images/products/H6006649dfff740d2baf3c1c24d92adffx.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 35,
+    "original": "H650fd968ea414adfa3453aaf431d753bZ.png",
+    "category": "Storage & drives",
+    "path": "images/products/H650fd968ea414adfa3453aaf431d753bZ.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 36,
+    "original": "H6b8e6016cdf348b5a61ce5984778de53K.jpg",
+    "category": "Laptop stands",
+    "path": "images/products/H6b8e6016cdf348b5a61ce5984778de53K.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 37,
+    "original": "H73ef845abd6d42c99ee744cd5b55c71dT.jpg",
+    "category": "Cooling",
+    "path": "images/products/H73ef845abd6d42c99ee744cd5b55c71dT.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 38,
+    "original": "H761690fa3da64705874f89c9d072b7e9J.png",
+    "category": "Storage & drives",
+    "path": "images/products/H761690fa3da64705874f89c9d072b7e9J.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 39,
+    "original": "H787277fcb9cc46eaaca48a2f0407d668e.jpg",
+    "category": "Networking",
+    "path": "images/products/H787277fcb9cc46eaaca48a2f0407d668e.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 40,
+    "original": "H7a68cf4d0824460ba9221b6234544542g.png",
+    "category": "Needs review",
+    "path": "images/unclassified/H7a68cf4d0824460ba9221b6234544542g.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 41,
+    "original": "H7ff6aeb3c73546e392cfd1c8cfa23e0ed.png",
+    "category": "Storage & drives",
+    "path": "images/products/H4c693cfc0fcc481cb2c7c872b5b338c5K.png",
+    "duplicate": true,
+    "duplicate_of": 27
+  },
+  {
+    "index": 42,
+    "original": "H803ca2b5808442e4a525d0ce10e5bbe26.png",
+    "category": "Cooling",
+    "path": "images/products/H803ca2b5808442e4a525d0ce10e5bbe26.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 43,
+    "original": "H820c0164a76e40d0b45677d35460c3bds.png",
+    "category": "Networking",
+    "path": "images/products/H820c0164a76e40d0b45677d35460c3bds.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 44,
+    "original": "H9589197f157f4653837e788feb6f5bf8t.jpg",
+    "category": "Needs review",
+    "path": "images/unclassified/H9589197f157f4653837e788feb6f5bf8t.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 45,
+    "original": "H9a0a04bc9d5f4fd3baf1ba9a75052116v.png",
+    "category": "Storage & drives",
+    "path": "images/products/H9a0a04bc9d5f4fd3baf1ba9a75052116v.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 46,
+    "original": "H9a6f4dc20c254e62a727579face4aa007.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/H9a6f4dc20c254e62a727579face4aa007.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 47,
+    "original": "Ha0474fd17d194b92a53dd75d53d13bfc1.png",
+    "category": "Storage & drives",
+    "path": "images/products/Ha0474fd17d194b92a53dd75d53d13bfc1.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 48,
+    "original": "Ha48b2ba108e947abaad7df3d98fa70eaR.png",
+    "category": "Security cameras",
+    "path": "images/products/Ha48b2ba108e947abaad7df3d98fa70eaR.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 49,
+    "original": "Ha86ff269a7564d28ac065b6b0088f5f6B.jpg",
+    "category": "Webcams",
+    "path": "images/products/Ha86ff269a7564d28ac065b6b0088f5f6B.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 50,
+    "original": "Haf62bec77f2541e6b3ab34551a340c1cr.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/Haf62bec77f2541e6b3ab34551a340c1cr.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 51,
+    "original": "Hb862265bf6824fabaaa3c7af3045b9a9s.png",
+    "category": "Computer accessories",
+    "path": "images/products/Hb862265bf6824fabaaa3c7af3045b9a9s.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 52,
+    "original": "Hbe8dcabf2b70467aaac3ef0a5d386475f.jpg",
+    "category": "USB & memory",
+    "path": "images/products/Hbe8dcabf2b70467aaac3ef0a5d386475f.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 53,
+    "original": "Hcc72fbb9d9b5445e808fdbca993f5639G.png",
+    "category": "Storage & drives",
+    "path": "images/products/Hcc72fbb9d9b5445e808fdbca993f5639G.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 54,
+    "original": "Hcdf5d640cbe9469fbae4cd1a33494f0ak.jpg",
+    "category": "Webcams",
+    "path": "images/products/Hcdf5d640cbe9469fbae4cd1a33494f0ak.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 55,
+    "original": "Hd3d494195cf84174885b83704a6c5627B.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/Hd3d494195cf84174885b83704a6c5627B.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 56,
+    "original": "Hd7aa0f70376247ee9a3fba45f07437e2h.jpg",
+    "category": "USB & memory",
+    "path": "images/products/Hd7aa0f70376247ee9a3fba45f07437e2h.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 57,
+    "original": "Hd87c9473c60f422683204e9404088398D.png",
+    "category": "Power & charging",
+    "path": "images/products/Hd87c9473c60f422683204e9404088398D.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 58,
+    "original": "Hdc75267fc83746e9873b9deee738e6d60.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/Hdc75267fc83746e9873b9deee738e6d60.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 59,
+    "original": "He613bb23cd01479191af377b13513f74V.png",
+    "category": "Laptop stands",
+    "path": "images/products/He613bb23cd01479191af377b13513f74V.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 60,
+    "original": "He61d97b0314d4ed4b6721c5bad2173caV.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/He61d97b0314d4ed4b6721c5bad2173caV.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 61,
+    "original": "He65b1eeb14e34a4e93bc9d74d5a60dbch.png",
+    "category": "Storage & drives",
+    "path": "images/products/He65b1eeb14e34a4e93bc9d74d5a60dbch.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 62,
+    "original": "Hea0999c039544f25bd3d9f08e78bd21eu.jpg",
+    "category": "Security cameras",
+    "path": "images/products/Hea0999c039544f25bd3d9f08e78bd21eu.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 63,
+    "original": "Hefd425369a2b4385acd3dddcdc99ce64u.jpg",
+    "category": "Storage & drives",
+    "path": "images/products/Hefd425369a2b4385acd3dddcdc99ce64u.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 64,
+    "original": "Hf38a21739b6649be903098b2de4280f54.png",
+    "category": "Power & charging",
+    "path": "images/products/Hf38a21739b6649be903098b2de4280f54.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 65,
+    "original": "Hf592c3762c34494e9035fb36289f926aw.jpg",
+    "category": "Webcams",
+    "path": "images/products/Hf592c3762c34494e9035fb36289f926aw.jpg",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 66,
+    "original": "Hf726174fca03415494da293449f6def57.png",
+    "category": "Storage & drives",
+    "path": "images/products/Hf726174fca03415494da293449f6def57.png",
+    "duplicate": false,
+    "duplicate_of": null
+  },
+  {
+    "index": 67,
+    "original": "Hf86071f828af4424b2080b9fc96b7b197.png",
+    "category": "Security cameras",
+    "path": "images/products/Hf86071f828af4424b2080b9fc96b7b197.png",
+    "duplicate": false,
+    "duplicate_of": null
+  }
+]
